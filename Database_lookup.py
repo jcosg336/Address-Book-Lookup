@@ -55,7 +55,7 @@ def main():
                 name = input("Please enter a space-seperated First and Last name: ").lower()
                 if name == "":
                     exit(0)
-                if name in data.keys(): #Failing here, takes name, but wont match
+                if name in data.keys():
                     result = [val.strip() for key, val in data.items() if name in key]
                     result = ''.join(result)
                     ret_Output(choice, result)
