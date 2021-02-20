@@ -7,4 +7,4 @@ Input: Choice between output types (1)Address or (2)Phone Numbers. User inputs d
 Output: Prints a formatted output of either the address or phone number of the search results specified by the user and found within the dictionary.
 
 Valid Names to Search:
-  Pradeep Acharya, John Brady, James Chen, Josh Kelly, Brady Parker, Drew Smith, Elizabeth Smith
+  Pradeep Acharya, John Brady, James Chen, Josh Kelly, Brady Parker, Drew Smith, Elizabeth Smithfield, Phil Colins, Eugine Cook, Frank Armstrong, Alberto Downing, Elise Richmond,   Andrew Morris, Patrisha Groober, Andre Hanson, Jamal Cole, Ming Ling, Samantha Lang, Kayla Plumber, Beverly Bissell
